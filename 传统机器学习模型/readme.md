@@ -43,6 +43,8 @@ K-Means 聚类 (1967)
 │   ├── 聚类 (Clustering)
 │   │   ├── K-Means
 │   │   └── 层级聚类 (Hierarchical)
+│   │   └── DBSCAN
+│   │   └── GMM:Gaussian Mixture Models
 │   │
 │   └── 降维 (Dimensionality Reduction)
 │       ├── PCA (主成分分析)
@@ -59,7 +61,7 @@ K-Means 聚类 (1967)
 │
 └── 关联规则（买面包的人也买牛奶）
 │   └── Apriori 算法
-│
+│ 
 └── 强化学习
     └── Q-learning
 
